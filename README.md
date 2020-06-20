@@ -1,7 +1,7 @@
 To use the modlib library, add an import in Go code and call it:
 
 ```
-import "github.com/prabhu1990/modlib/modlib"
+import "github.com/prabhu1990/modlib"
 
 // ... later
 s := modlib.Foo()
